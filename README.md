@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Katarina. Unscrambling data's secrets, like a digital detective with a sense of humor. 🚀📊</h1>
+<h1 align="center">Hi 👋, I'm Katarina. 
+Unscrambling data's secrets, like a digital detective with a sense of humor. 🚀📊</h1>
+
 <h3 align="center">I've charted my own course into the world of data analytics. Armed with an A+ CompTIA certification and honed Python skills from a bootcamp, I've decided to venture into the realm of data analysis.</h3>
 
 - 🌱 I’m currently learning **machine learning**
