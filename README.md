@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **Python, SQL,DA,DS**
+- 💬 Ask me about **Python, SQL, DA, DS**
 
 - 📫 How to reach me **katarina.oldakowski@gmail.com**
 
