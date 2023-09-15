@@ -1,5 +1,6 @@
 
-![Header](./github-header-image.png)
+![github-header-image](https://github.com/KatarinaOldakowski/KatarinaOldakowski/assets/128411602/9e1ebeb3-1355-4cf0-9462-9f7203c7d0b5)
+
 
 <h1 align="center">Hi 👋, I'm Katarina. </h1>
 <h2 Unscrambling data's secrets, like a digital detective with a sense of humor. 🚀📊</h2>
