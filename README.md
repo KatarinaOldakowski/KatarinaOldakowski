@@ -1,5 +1,6 @@
 
-![github-header-image (2)](https://github.com/KatarinaOldakowski/KatarinaOldakowski/assets/128411602/54a0ce26-584e-4fd7-b110-73bb157cff22)
+![github_header](https://github.com/KatarinaOldakowski/KatarinaOldakowski/assets/128411602/9edd2b3e-3882-4008-8a67-3d006b5e1e99)
+
 
 <h3 align="center">I've charted my own course into the world of data analytics. Armed with an A+ CompTIA certification and honed Python skills from a bootcamp, I've decided to venture into the realm of data analysis.</h3>
 
