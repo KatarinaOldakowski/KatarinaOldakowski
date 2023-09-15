@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, SQL, DA, DS**
 
-- 📫 How to reach me **katarina.oldakowski@gmail.com**
+- 📫 How to reach me **katarina.oldakowski@gmail.com** 
 
 - ⚡ Fun fact **Raccoon enthusiasts: Because sometimes, you just need a trash panda in your life to keep things interesting! 🦝**
 
