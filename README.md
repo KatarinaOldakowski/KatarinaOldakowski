@@ -39,6 +39,6 @@
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer">
-    <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="powerbi" width="40" height="40"/>
+    <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="powerbi" width="40" height="100"/>
   </a>
 </p>
