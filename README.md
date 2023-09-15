@@ -39,6 +39,6 @@
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/vector-logo/386611/tableau-software" alt="powerbi" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau" width="40" height="40"/>
   </a>
 </p>
