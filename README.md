@@ -3,8 +3,6 @@
 
 ![github-header-image (1)](https://github.com/KatarinaOldakowski/KatarinaOldakowski/assets/128411602/c0b01125-a871-477f-bd91-0f7d8fac45cb)
 
-<h1 align="center">Hi 👋, I'm Katarina. </h1>
-<h2 Unscrambling data's secrets, like a digital detective with a sense of humor. 🚀📊</h2>
 
 <h3 align="center">I've charted my own course into the world of data analytics. Armed with an A+ CompTIA certification and honed Python skills from a bootcamp, I've decided to venture into the realm of data analysis.</h3>
 
