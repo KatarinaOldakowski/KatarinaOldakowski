@@ -1,3 +1,6 @@
+
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Katarina. </h1>
 <h2 Unscrambling data's secrets, like a digital detective with a sense of humor. 🚀📊</h2>
 
