@@ -4,7 +4,7 @@
 
 <h3 align="center">I've charted my own course into the world of data analytics. Armed with an A+ CompTIA certification and honed Python skills from a bootcamp, I've decided to venture into the realm of data analysis.</h3>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **database admin**, **machine learning**
 
 - 💬 Ask me about **Python, SQL, DA, DS**
 
