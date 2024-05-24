@@ -1,9 +1,8 @@
-
 ![github_header](https://github.com/KatarinaOldakowski/KatarinaOldakowski/assets/128411602/9edd2b3e-3882-4008-8a67-3d006b5e1e99)
 
 
 
-- 🌱 I’m currently learning **database admin**, **power platform**
+- 🌱 I’m currently learning **database admin** & **power platform**
 
 - 💬 Ask me about **Python, SQL, DA**
 
